@@ -1,0 +1,5 @@
+Student: Neri
+Student ID: TUPM-26-1849
+Seed digit: 9
+ID sum: 30
+Verification value: 129
